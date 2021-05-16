@@ -12,13 +12,13 @@ function clues() {
 // add code for displaying rest of the names and the hints.
 fill("white")
     textSize(15)
-    text("F U N C T I O N ", 700,150)
+    text("F N C U T O N I ", 700,150)
     fill("lightblue")
     text("Hint: essential in oop", 700,170)
 
     fill("white")
 textSize(15)
-text("D A T A B A S E", 400,300)
+text("A T A A D B E S", 400,300)
 fill("lightblue")
 text("Hint: Stores info !!", 400,330)
 
